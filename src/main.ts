@@ -1,1 +1,3 @@
-console.log('Hello, world!');
+import { printBanner } from './utils/banner';
+
+printBanner('start');
